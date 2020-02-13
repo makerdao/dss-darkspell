@@ -1,0 +1,7 @@
+export ETH_FROM="0xDA0..."
+export ETH_PASSWORD="/path/to/password/file.txt"
+export ETH_KEYSTORE="/path/to/ethereum/keystore"
+export ETH_RPC_URL="https://your.ethrpcurl.here:8545/"
+export ETHERSCAN_API_KEY="A1B2C3..."
+export ETH_GAS_PRICE=2500000000
+export ETH_GAS=3000000
