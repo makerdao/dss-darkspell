@@ -1,4 +1,4 @@
-# DSS Darkfix Spell
+# DSS Darkspell
 
 Using the `CREATE2` opcode, we can predetermine the deploy address of a contract if we have the following three items:
 
@@ -19,7 +19,7 @@ Typically, spells make use of a separate 'SpellAction' proxy contract to execute
 Clone the repository:
 
 ```
-git clone https://github.com/makerdao/dss-darkfix.git
+git clone https://github.com/makerdao/dss-darkspell.git
 ```
 
 Then, in the `env-kovan` file in this repo, with `ETH_FROM`, `ETH_KEYSTORE`, and `ETH_PASSWORD` environment variables set:
